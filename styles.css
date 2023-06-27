@@ -1,0 +1,44 @@
+*, *::before.*::after {
+    box-sizing: border-box;
+
+}
+
+ *{
+    margin: 0;
+    padding: 0;
+
+ }
+
+
+ /*OUR STYLES */
+
+ body{
+    padding: 4rem;
+    background: black;
+    color: #f4f4f5;
+    font-family: Helvetica, arial sans-serif;
+    font-weight: 100;
+    font-size: larger;
+ }
+
+ h1,h2,h3,h4 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 0.25em;
+ }
+
+ p{
+    font-size: small;
+ }
+
+a{ 
+    color: lightseagreen;
+}
+
+a:hover, a:active {
+
+}
+
+footer {
+    position: fixed;
+    bottom
+}
